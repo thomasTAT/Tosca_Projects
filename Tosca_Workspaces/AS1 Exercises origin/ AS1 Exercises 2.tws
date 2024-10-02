@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TCWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WorkspaceRepository>
+    <RepoClass>SQLiteRepository</RepoClass>
+    <DatabasePathAndName>.\Repository\ AS1 Exercises 2.db</DatabasePathAndName>
+    <Database>C:\Tosca_Projects\Tosca_Workspaces\ AS1 Exercises 2\Repository\ AS1 Exercises 2.db</Database>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </WorkspaceRepository>
+  <CommonRepository>
+    <RepoClass>null</RepoClass>
+  </CommonRepository>
+  <DefaultUser>
+    <UserName>Admin</UserName>
+    <UserSurrogate>3a15598e-3e29-77b5-7e1f-a76f86a7ce01</UserSurrogate>
+  </DefaultUser>
+  <TCWorkspaceID>613d7d71-115f-4b94-a497-7f3449a18020</TCWorkspaceID>
+  <TCCommonRepositoryID />
+  <TCWorkspaceDescription />
+</TCWorkspace>

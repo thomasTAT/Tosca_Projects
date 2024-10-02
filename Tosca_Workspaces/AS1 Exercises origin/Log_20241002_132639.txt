@@ -1,0 +1,96 @@
+[3] 1:26:39 PM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\ AS1 Exercises 2\ AS1 Exercises 2.tws'
+[3] 1:26:39 PM: Log level: 4
+[3] 1:26:39 PM: Release: 24.1.2.5146
+[3] 1:26:39 PM: Execution Approval is disabled.
+[3] 1:26:39 PM: No service discovery configured.
+[3] 1:26:39 PM:  + AccessibilityTestingUI: AccessibilityTestingUI 24.1.2.5146 (5146)
+[3] 1:26:39 PM:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 24.1.2.5146 (5146)
+[3] 1:26:39 PM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 24.1.2.5146 (5146)
+[3] 1:26:39 PM:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 24.1.2.5146 (5146)
+[3] 1:26:39 PM:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 24.1.2.5146 (5146)
+[3] 1:26:39 PM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 24.1.2.5146 (5146)
+[3] 1:26:39 PM:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 24.1.2.5146 (5146)
+[3] 1:26:39 PM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 24.1.2.5146 (5146)
+    + : SAPSolutionManagerIntegration 24.1.2.5146 (5146)
+[3] 1:26:39 PM: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 1:26:39 PM: Searcher found 0 results in 21.7655 ms
+[3] 1:26:39 PM:  + OptIntAddIn: OptIntAddIn 24.1.2.5146 (5146)
+[3] 1:26:39 PM:  + QTestIntegrationAddIn: QTestIntegrationAddIn 24.1.2.5146 (5146)
+[3] 1:26:39 PM:  + RemoteControl: RemoteControlAddIn 24.1.2.5146 (5146)
+[3] 1:26:39 PM:  + Reporting: ReportingAddIn 24.1.2.5146 (5146)
+[3] 1:26:39 PM:  + ReportingUI: ReportingUIAddIn 24.1.2.5146 (5146)
+[3] 1:26:39 PM:  + RequirementsManagementAddIn: RequirementsManagement 24.1.2.5146 (5146)
+[3] 1:26:39 PM:  + RequirementsManagementUIAddIn: RequirementsManagementUI 24.1.2.5146 (5146)
+[3] 1:26:39 PM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 24.1.2.5146 (5146)
+[3] 1:26:39 PM:  + TestCaseDesign: TestCaseDesign 24.1.2.5146 (5146)
+[3] 1:26:39 PM: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\ AS1 Exercises 2\ AS1 Exercises 2.tws'
+[2] 1:26:39 PM: CommanderAssemblyResolver: Unable to resolve: System.Collections.Specialized.XmlSerializers, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Ready'
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Ready'
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Ready'
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Ready'
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Ready'
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Ready'
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 1:26:43 PM:  ShowStatusInfo: 'Refresh all finished'
+[3] 1:26:43 PM: OpenWorkspace took 00:00:05.3655538 to finish
+[2] 1:26:43 PM: Common repository is not available
+[1] 1:26:43 PM: ShowErrorMessage 'title=License lost', message='Tosca Commander license lost. Please reconnect to license server.
+
+Version: 24.1.2
+Build: 24.1.2.5146'
+[3] 1:26:50 PM: Closing Workspace!
+[3] 1:26:50 PM: Log closed!
