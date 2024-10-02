@@ -1,0 +1,10 @@
+[3] 11:54:28 PM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\AS1 Exercises  2\AS1 Exercises 2.tws'
+[3] 11:54:28 PM: Log level: 4
+[3] 11:54:28 PM: Release: 24.1.2.5146
+[3] 11:54:28 PM: Execution Approval is disabled.
+[3] 11:54:28 PM: No service discovery configured.
+[1] 11:54:28 PM: ShowErrorMessage 'title=Error : Open Workspace', message='Could not open Workspace. 
+The TCProject object could not be found in the workspace database.
+'
+[3] 11:54:29 PM: OpenWorkspace took 00:00:01.5632660 to finish
+[2] 11:54:30 PM: CommanderAssemblyResolver: Unable to resolve: System.Collections.Specialized.XmlSerializers, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a

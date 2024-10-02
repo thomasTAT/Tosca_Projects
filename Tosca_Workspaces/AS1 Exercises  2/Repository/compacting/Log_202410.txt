@@ -215,3 +215,19 @@
 [Info] 10/2/2024 11:51:11 PM: 4/100 - Defragmenting Data - [estimated time left 7:29 m]
 [Info] 10/2/2024 11:51:12 PM: 4/100 - Defragmenting Data - [estimated time left 7:28 m]
 [Info] 10/2/2024 11:51:13 PM: 5/100 - Defragmenting Data - [estimated time left 7:27 m]
+[Info] 10/2/2024 11:59:35 PM: Auto-exclusion started
+[Info] 10/2/2024 11:59:35 PM: 0/100 - Unused objects exclusion
+[Info] 10/2/2024 11:59:35 PM: 50/100 - Unused objects exclusion
+[Info] 10/2/2024 11:59:35 PM: 100/100 - Unused objects exclusion
+[Info] 10/2/2024 11:59:35 PM: Auto-exclusion finished
+[Info] 10/2/2024 11:59:46 PM: 3/100 - Defragmenting Data - [estimated time left 7:34 m]
+[Info] 10/2/2024 11:59:46 PM: Compacting started
+[Info] 10/2/2024 11:59:47 PM: 3/100 - Defragmenting Data - [estimated time left 7:33 m]
+[Info] 10/2/2024 11:59:47 PM: Compacting Workspace - Defragmentation finished in 00:00:01.0177584, database size: 7700480
+[Info] 10/2/2024 11:59:47 PM: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0262543, database size: 7700480
+[Info] 10/2/2024 11:59:47 PM: Compacting finished
+[Info] 10/2/2024 11:59:48 PM: 3/100 - Defragmenting Data - [estimated time left 7:32 m]
+[Info] 10/2/2024 11:59:49 PM: 4/100 - Defragmenting Data - [estimated time left 7:31 m]
+[Info] 10/2/2024 11:59:50 PM: 4/100 - Defragmenting Data - [estimated time left 7:30 m]
+[Info] 10/2/2024 11:59:51 PM: 4/100 - Defragmenting Data - [estimated time left 7:29 m]
+[Info] 10/2/2024 11:59:52 PM: 4/100 - Defragmenting Data - [estimated time left 7:28 m]

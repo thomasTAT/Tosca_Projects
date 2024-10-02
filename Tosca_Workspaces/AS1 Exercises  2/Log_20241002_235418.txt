@@ -1,0 +1,12 @@
+[3] 11:54:18 PM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\AS1 Exercises  2\AS1 Exercises 2.tws'
+[3] 11:54:18 PM: Log level: 4
+[3] 11:54:18 PM: Release: 24.1.2.5146
+[3] 11:54:18 PM: Execution Approval is disabled.
+[3] 11:54:18 PM: No service discovery configured.
+[1] 11:54:18 PM: ShowErrorMessage 'title=Error : Open Workspace', message='Could not open Workspace. 
+The TCProject object could not be found in the workspace database.
+'
+[3] 11:54:21 PM: OpenWorkspace took 00:00:05.2984647 to finish
+[4] 11:54:23 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:54:23 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 11:54:28 PM:  ShowStatusInfo: 'Ready'
