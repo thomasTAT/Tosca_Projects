@@ -222,3 +222,5 @@
 [4] 2:53:58 PM:  ShowStatusInfo: 'Ready'
 [4] 2:53:58 PM:  ShowStatusInfo: 'Refresh view finished'
 [4] 2:54:03 PM:  ShowStatusInfo: 'Ready'
+[3] 6:25:50 PM: Closing Workspace!
+[3] 6:25:50 PM: Log closed!
